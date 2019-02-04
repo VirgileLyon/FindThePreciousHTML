@@ -54,7 +54,16 @@
  
 
     <section>
-      
+    <h2>Contact Us</h2>
+       <input type="text" name="first_name" placeholder="@">  
+       <input type="text" name="first_name" placeholder="Home">
+    <select>
+      <option>I have seen one of them</option>
+    </select>
+    <textarea id="Your message" name="Your message"
+          rows="5" cols="33">
+          Your message
+    </textarea>
     </section>
 
 
