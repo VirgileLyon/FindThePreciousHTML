@@ -13,12 +13,12 @@
       <h1>FindThePrecious.com</h1>
       <nav>
         <ul id="Menu">
-            <li>Fellows</li>
-            <li>The Ring</li>
-            <li>Get my reward</li>
-            <li>Best hunters</li>
-            <li>Join the army</li>
-            <li>Contact us</li>
+            <li><a href="#Fellows">Fellows</a></li>
+            <li><a href="#The Ring">the ring</a></li>
+            <li><a href="#Get my reward">Get my reward</a></li>
+            <li><a href="#Best hunters">Best hunters</a></li>
+            <li><a href="#Join the army">Join the army</a></li>
+            <li><a href="#Contact us">Contact us</a></li>
         </ul>
       <p>Dangerous fellowship try to destroy the ring</p>
       <p>Orcs, Goblins, Balrogs, protect your master Sauron! </p>
@@ -29,6 +29,16 @@
 
     <section>
       <h2>Fellow wanted dead (or alive if you want to eat them later)</h2>
+          <button>
+             Most wanted
+          </button>
+          <button>
+             Most dangerous
+          </button>
+          <button>
+             Already captured
+          </button>
+          
     </section>
 
 
