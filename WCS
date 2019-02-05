@@ -79,6 +79,8 @@
     
     <section>
         <h5>About the ring</h5>
+          <h7>Ring capabilities</h7>
+          <p>What can our master Sauron do with the ring?</p>
             <table>
                <tr>
                    <td>Feature</td>
@@ -97,6 +99,8 @@
                   <td>Destroy the world</td>
                </tr>
             </table>
+            <h8>Why the ring is awesome?</h8>
+          <p>My precioooooooooussssssss</p>
     </section>
     
     
