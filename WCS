@@ -45,19 +45,36 @@
           <button>
              Reward 250 gold coins
           </button>
-          <a href="https://placeholder.com"><img src="https://via.placeholder.com/20></a>
-          <a href="https://placeholder.com"><img src="https://via.placeholder.com/20></a>
-          <a href="https://placeholder.com"><img src="https://via.placeholder.com/20></a>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/100></a>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/100></a>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/100></a>
     </section>
 
 
     <section>
        <h3>I have captured one of them, how to get my reward?</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet tellus quis urna molestie ultricies a ac neque. Nunc volutpat dui nec justo pellentesque sodales. Vestibulum sollicitudin sem elit, et congue quam maximus id. Duis mi lorem, venenatis non varius quis, convallis et magna. Sed sollicitudin, mauris vel molestie mollis, augue mi laoreet justo, eu suscipit purus odio non mauris. Pellentesque ultrices tortor eget leo interdum, a consectetur nisi facilisis. Curabitur ligula orci, dignissim a justo fermentum, molestie fringilla eros.</p>
+          <button>
+             Contact us
+          </button>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/140></a>
     </section>
 
 
     <section>
-      
+      <h4>Best hunters</h4>
+        <a href="https://placeholder.com"><img src="https://via.placeholder.com/70></a>
+        <strong>Elveskiller22</strong>
+        <p>2 captures - Profile</p>
+        <button>
+           Like
+        </button>
+        <a href="https://placeholder.com"><img src="https://via.placeholder.com/70></a>
+        <strong>Goblin45</strong>
+        <p>1 capture - Profile</p>
+        <button>
+           Like
+        </button>
     </section>
 
  
