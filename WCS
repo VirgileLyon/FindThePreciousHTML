@@ -78,10 +78,30 @@
     </section>
     
     <section>
+        <h5>About the ring</h5>
+            <table>
+               <tr>
+                   <td>Feature</td>
+                   <td>Description</td>
+               </tr>
+               <tr>
+                   <td>Main</td>
+                   <td>One ring to rulles them all</td>
+               </tr>
+               <tr>
+                  <td>Invisibility</td>
+                  <td>You can't see mee</td>
+               </tr>
+               <tr>
+                  <td>Power</td>
+                  <td>Destroy the world</td>
+               </tr>
+            </table>
+    </section>
     
     
     <section>
-       <h5>Join Mordor Army, we need you!</h5>
+       <h6>Join Mordor Army, we need you!</h6>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet tellus quis urna molestie ultricies a ac neque. Nunc volutpat dui nec justo pellentesque sodales. Vestibulum sollicitudin sem elit, et congue quam maximus id. Duis mi lorem, venenatis non varius quis, convallis et magna. Sed sollicitudin, mauris vel molestie mollis, augue mi laoreet justo, eu suscipit purus odio non mauris. Pellentesque ultrices tortor eget leo interdum, a consectetur nisi facilisis. Curabitur ligula orci, dignissim a justo fermentum, molestie fringilla eros.</p>
           <button>
              More info on Sauronrulesthemall.com
