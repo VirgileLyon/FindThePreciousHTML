@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
   
 <head>
     <meta charset="UTF-8">
@@ -12,7 +12,7 @@
     <header>
       <h1>FindThePrecious.com</h1>
       <nav>
-        <ul id="Menu">
+        <ul>
             <li><a href="#Fellows">Fellows</a></li>
             <li><a href="#The Ring">the ring</a></li>
             <li><a href="#Get my reward">Get my reward</a></li>
@@ -22,13 +22,13 @@
         </ul>
       <p>Dangerous fellowship try to destroy the ring</p>
       <p>Orcs, Goblins, Balrogs, protect your master Sauron! </p>
-      <a href="https://placeholder.com"><img src="https://via.placeholder.com/140></a>
+      <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140.png"></a>
       </nav>
     </header>
 
 
-
     <section>
+
       <h2>Fellow wanted dead (or alive if you want to eat them later)</h2>
           <button>
              Most wanted
@@ -52,9 +52,10 @@
                 <button>
                 Reward 250 gold coins
                 </button>
-          <a href="https://placeholder.com"><img src="https://via.placeholder.com/100></a>
-          <a href="https://placeholder.com"><img src="https://via.placeholder.com/100></a>
-          <a href="https://placeholder.com"><img src="https://via.placeholder.com/100></a>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/100x100.png"></a>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/100x100.png"></a>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/100x100.png"></a>
+
     </section>
 
 
@@ -64,19 +65,19 @@
           <button>
              Contact us
           </button>
-          <a href="https://placeholder.com"><img src="https://via.placeholder.com/140></a>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140.png"></a>
     </section>
 
 
     <section>
       <h4>Best hunters</h4>
-        <a href="https://placeholder.com"><img src="https://via.placeholder.com/70></a>
+        <a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70.png"></a>
         <strong>Elveskiller22</strong>
         <p>2 captures - Profile</p>
         <button>
            Like
         </button>
-        <a href="https://placeholder.com"><img src="https://via.placeholder.com/70></a>
+        <a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70.png"></a>
         <strong>Goblin45</strong>
         <p>1 capture - Profile</p>
         <button>
@@ -109,7 +110,7 @@
             <h8>Why the ring is awesome?</h8>
           <p>My precioooooooooussssssss! Hrk hrk, we want our precioooooousssss !! </p>
           <p>Gollum </p>
-          <a href="https://placeholder.com"><img src="https://via.placeholder.com/110></a>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/110x110.png"></a>
     </section>
     
     
@@ -119,7 +120,7 @@
           <button>
              More info on Sauronrulesthemall.com
           </button>
-          <a href="https://placeholder.com"><img src="https://via.placeholder.com/140></a>
+          <a href="https://placeholder.com"><img src="https://via.placeholder.com/140x140.png"></a>
     </section>
 
  
